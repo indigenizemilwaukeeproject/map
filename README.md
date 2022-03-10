@@ -1,6 +1,7 @@
 # Indigenize Milwaukee Project
 ## A Project of the MU Indigeneity Lab
 ### Faculty lead Dr. Bryan Rindfleisch, with student researchers: 
+ - Marshall Kopacki (Spring 2022)
  - Clare Camblin (Summer 2021)
  - Cameron Fronczak (Summer 2021)
  - Alex Liberato (Spring 2021)
